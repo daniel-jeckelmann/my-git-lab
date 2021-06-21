@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Salut les gars, comment ça va ?
+=======
+Hello World !
+Hello boys !
+>>>>>>> 5bd2aa4e03514784cc0a5fc7efafae9d971e34f7
